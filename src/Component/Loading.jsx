@@ -79,7 +79,7 @@ export default function Loading() {
 
         /* Penundaan animasi untuk setiap titik agar terlihat berurutan */
         .loading-dots span:nth-child(2) {
-          animation-delay: 0.2s;
+          animation-delay: 0.2s;    
         }
 
         .loading-dots span:nth-child(3) {

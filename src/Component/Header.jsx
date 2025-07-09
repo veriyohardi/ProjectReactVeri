@@ -22,7 +22,7 @@ export default function Header() {
 
         {/* Menu */}
         <div className="hidden md:flex items-center space-x-8"> {/* Jarak antar menu lebih lebar */}
-          <a href="/dashboard" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group"> {/* Font lebih tebal, efek underline */}
+          <a href="/" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group"> {/* Font lebih tebal, efek underline */}
             BERANDA
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#F0D59D] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
           </a>
@@ -34,16 +34,12 @@ export default function Header() {
             PRODUK
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#F0D59D] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
           </a>
-          <a href="custom-order" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group">
+          <a href="/custom-order/custom-order" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group">
             PESANAN KHUSUS
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#F0D59D] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
           </a>
           <a href="/kesan" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group">
             TESTIMONIAL
-            <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#F0D59D] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
-          </a>
-          <a href="#" className="relative text-[#E0E0E0] hover:text-[#F0D59D] transition-colors font-semibold py-2 group">
-            MASUK
             <span className="absolute bottom-0 left-0 w-full h-0.5 bg-[#F0D59D] transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left"></span>
           </a>
         </div>
