@@ -68,7 +68,7 @@ export default function Footer() {
                 </div>
                 <div className="w-full h-48 rounded-xl overflow-hidden shadow-md">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63835.05620566429!2d101.31776332855226!3d0.45770873566569986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5a9b1d33fa325%3A0x825b374d9825088e!2sYummi%20Company%20Bakery%20-%20Roti%2C%20Bolen%2C%20Donut%20Panam%20Pekanbaru!5e0!3m2!1sen!2sid!4v1752075417906!5m2!1sen!2sid"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.6202092678095!2d101.4235219747765!3d0.5709751994234532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5ab67086f2e89%3A0x65a24264fec306bb!2sPoliteknik%20Caltex%20Riau!5e0!3m2!1sen!2sid!4v1752085649301!5m2!1sen!2sid"
                     width="100%"
                     height="100%"
                     style={{

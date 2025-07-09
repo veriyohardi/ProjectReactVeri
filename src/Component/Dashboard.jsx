@@ -64,7 +64,7 @@ export default function Dashboard() {
             Nikmati berbagai roti, kue, dan pastry kami yang dibuat dengan cinta dan bahan-bahan terbaik.
           </p>
          <a
-  href="#"
+  href="/products"
   role="button"
   className="bg-gradient-to-r from-[#DAA520] to-[#FFD700] text-[#4A2E00] px-6 py-3 rounded-full font-bold hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-300"
 >
