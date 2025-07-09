@@ -63,9 +63,14 @@ export default function Dashboard() {
           <p className="mb-6 text-[#A0A0A0]">
             Nikmati berbagai roti, kue, dan pastry kami yang dibuat dengan cinta dan bahan-bahan terbaik.
           </p>
-          <button className="bg-gradient-to-r from-[#DAA520] to-[#FFD700] text-[#4A2E00] px-6 py-3 rounded-full font-bold hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-300">
-            Pesan Sekarang
-          </button>
+         <a
+  href="#"
+  role="button"
+  className="bg-gradient-to-r from-[#DAA520] to-[#FFD700] text-[#4A2E00] px-6 py-3 rounded-full font-bold hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-300"
+>
+  Pesan Sekarang
+</a>
+
         </div>
 
         <div className="relative mt-12 md:mt-0 md:ml-12">
